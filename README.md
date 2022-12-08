@@ -1,2 +1,1 @@
-first line
-second line
+My first GIT repository commands practised 
